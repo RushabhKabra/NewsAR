@@ -8,6 +8,8 @@ Reading tiny fonts from newspaper in this digital world is tedious for every peo
 Also there are many businessman who doesn’t have time to read whole article, also other few people who are aged and problem in reading tiny fonts of newspaper.
 So we have found one solution to this we are using augmented reality with a newspaper where people who wants to know about any article from newspaper and our application will show video or news, they just need to see one photograph related to that article.
 
+You can dowload the photos and test this application.
+
 Technology used:
 UNITY
 VUFORIA
